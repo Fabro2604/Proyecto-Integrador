@@ -22,6 +22,7 @@ Once you have downloaded flutter run this comand to create the folder structure:
 Then paste the main.dart file into your lib folder in the main.dart file and save both flask_api_dieta.py and rf_feature_selection.pkl in said folder
 
 ## To run the app
+- To download Flutter follow the instructions in this video:  https://www.youtube.com/watch?v=QG9bw4rWqrg&t=900s
 - Download Android Studio and follow install flutter in it
 - You will need Xcode to run the simulator for the app
 - Open the terminal in the lib folder of your proyect one create a virtual enviroment and install dependencies for flask_api_dieta.py and run it 
