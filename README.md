@@ -1,30 +1,17 @@
-Diet Recommendations Application
+## 📋 Descripción
 
-- Este proyecto tiene como objetivo la creación de una aplicación que recomendará dietas personalizadas a los usuarios. En este repositorio se encuentran los modelos de machine learning y deep learning que fueron evaluados para determinar cuál es el más adecuado para la aplicación.
+Este proyecto consiste en el desarrollo de una solución integral para la **recomendación de dietas personalizadas**. Combina modelos de machine learning, una API REST y una aplicación móvil multiplataforma para proporcionar recomendaciones basadas en las características clínicas y preferencias del usuario.
 
- Contenido del Repositorio
+La aplicación ha sido diseñada principalmente para personas con enfermedades crónicas como **obesidad**, **diabetes** o **hipertensión**, mejorando la accesibilidad a planes alimenticios adaptados.
 
-- diet_recommendations.ipynb: Notebook principal con el código para preprocesamiento, entrenamiento y evaluación de modelos.
+---
 
+## 🚀 Tecnologías utilizadas
 
-Descripción del Proyecto
+- Python (scikit-learn, pandas, numpy, matplotlib)
+- TensorFlow / Keras
+- Flask (API REST)
+- Flutter (Aplicación Móvil Android / iOS)
+- joblib (Persistencia de modelos)
+- GitHub Actions (opcional para CI/CD)
 
-- El propósito del proyecto es desarrollar una aplicación capaz de sugerir dietas en función de las características del usuario, como género, tipo de enfermedad, nivel de actividad física y restricciones dietéticas. Este repositorio contiene el análisis de diferentes modelos de clasificación para encontrar el más preciso y eficiente.
-
-
-Modelos Evaluados
-
-- Regresión Logistica
-
-- Naive Bayes
-
-- Random Forest
-
-- Red Neuronal
-
-
-Metricas de Evaluación:
-
-- Métricas como accuracy_score, confusion_matrix y classification_report.
-
-- Visualización de curvas de pérdida y precisión para la red neuronal
