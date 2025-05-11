@@ -16,7 +16,7 @@ La aplicación ha sido diseñada principalmente para personas con enfermedades c
 
 ---
 
-## To create the app
+## Para crear la app
 
 - Para descargar Flutter, sigue las instrucciones de este video: https://www.youtube.com/watch?v=QG9bw4rWqrg&t=900s
 
