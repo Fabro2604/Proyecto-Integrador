@@ -98,4 +98,4 @@ Settings > General > About > Certificate Trust Settings
 
 y activa el interruptor de confianza para `flask_cert.crt`.
 
-- Finalmente, ejecuta el archivo `main.dart` para ver la aplicación en el simulador.
+- Finalmente, ejecuta el archivo `main.dart` para ver la aplicación en el simulador y revisa que funcione ingresando datos, y pidiendo una recomendación.
