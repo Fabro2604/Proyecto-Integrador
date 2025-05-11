@@ -1,0 +1,541 @@
+{
+  "Balanced": {
+    "Día 1": {
+      "Desayuno": "Tostada de tomate y aguacate con pimienta negra y yogur con pera",
+      "Comida": "Pechugas al horno con verduras y especias",
+      "Cena": "Crema de calabaza y cebolla con garbanzos tostados al horno con cúrcuma y huevo duro"
+    },
+    "Día 2": {
+      "Desayuno": "Bol de yogur con manzana al horno y granola",
+      "Comida": "Crema de puerros y manzana, y solomillo de cerdo con arroz integral",
+      "Cena": "Ensalada de canónigos, cuscús y remolacha; halibut con ajo y perejil"
+    },
+    "Día 3": {
+      "Desayuno": "Tostada con tomate y tortilla de calabacín",
+      "Comida": "Ensalada de quinoa integral con brócoli, pimiento del piquillo y atún",
+      "Cena": "Gazpacho de fresas; tostadas con revuelto de tofu"
+    },
+    "Día 4": {
+      "Desayuno": "Tostada con queso fresco, tomate cherry, canónigos y nueces, con fruta",
+      "Comida": "Berenjenas rellenas con verdura, pollo y huevo duro",
+      "Cena": "Lubina al horno con cuscús y verduras especiadas al estilo marroquí"
+    },
+    "Día 5": {
+      "Desayuno": "Porridge de avena con yogur vegetal, semillas de chía y frutos rojos",
+      "Comida": "Espaguetis de calabacín salteados con quinoa, gambitas y calamarcitos",
+      "Cena": "Ensalada de tomates cherry y berenjena; tostada con paté de guisantes, albahaca y huevo poché"
+    },
+    "Día 6": {
+      "Desayuno": "Tostadas con plátano y crema de cacahuete",
+      "Comida": "Boquerones al horno; espaguetis salteados con tomates cherry",
+      "Cena": "Alcachofa al microondas, contramuslos de pollo a la plancha con champiñones salteados y tostada integral"
+    },
+    "Día 7": {
+      "Desayuno": "Crep relleno de frutas y canela; yogur natural con frutos secos",
+      "Comida": "Langostinos salteados con verduras y fideos de arroz",
+      "Cena": "Ensalada de lentejas, pimiento, cebolla, aguacate, pepinillo, tomate, aceitunas y mejillones"
+    },
+    "Día 8": {
+      "Desayuno": "Batido verde de espinaca, plátano y yogur griego con semillas de chía",
+      "Comida": "Garbanzos guisados con espinacas y tomate",
+      "Cena": "Salmón a la plancha con verduras al vapor y quinoa"
+    },
+    "Día 9": {
+      "Desayuno": "Huevos revueltos con champiñones y espinacas, con pan integral tostado",
+      "Comida": "Estofado de ternera magra con zanahorias, guisantes y patatas",
+      "Cena": "Salteado de tofu y verduras con salsa de soya reducida en sodio"
+    },
+    "Día 10": {
+      "Desayuno": "Avena remojada con leche de almendras, servida con arándanos y nueces",
+      "Comida": "Pasta integral con pollo a la parrilla y brócoli",
+      "Cena": "Merluza al horno con limón y perejil, acompañada de guisantes salteados"
+    },
+    "Día 11": {
+      "Desayuno": "Panqueques de avena con plátano y arándanos",
+      "Comida": "Lentejas estofadas con verduras, servidas con arroz integral",
+      "Cena": "Ensalada caprese (tomate, mozzarella baja en grasa, albahaca) con pan integral"
+    },
+    "Día 12": {
+      "Desayuno": "Pudín de chía con leche de coco y mango",
+      "Comida": "Bacalao en salsa de tomate con pimientos",
+      "Cena": "Verduras a la parrilla con hummus y pan pita integral"
+    },
+    "Día 13": {
+      "Desayuno": "Pan francés integral con canela, servido con plátano y fresas",
+      "Comida": "Pimientos rellenos de arroz integral, verduras y queso bajo en grasa gratinado",
+      "Cena": "Crema de zanahoria y jengibre con picatostes integrales"
+    },
+    "Día 14": {
+      "Desayuno": "Parfait de yogur griego, avena y frutos del bosque",
+      "Comida": "Filete de atún a la plancha con ensalada de rúcula, aguacate y mango",
+      "Cena": "Pizza integral casera de verduras con queso mozzarella bajo en grasa"
+    },
+    "Día 15": {
+      "Desayuno": "Sándwich de pan integral con aguacate, tomate y huevo duro",
+      "Comida": "Solomillo de pavo al horno con batata asada y brócoli al vapor",
+      "Cena": "Ensalada de espinacas con fresas, nueces y queso de cabra"
+    }
+  },
+  "Low-Carb": {
+    "Día 1": {
+      "Desayuno": "Omelette de verduras (espinacas, pimiento) con queso feta",
+      "Comida": "Filete de bonito a la plancha con ensalada de lechuga y tomate",
+      "Cena": "Pechuga de pollo a la plancha con pimientos verdes"
+    },
+    "Día 2": {
+      "Desayuno": "Yogur griego con nueces y frambuesas",
+      "Comida": "Bowl de burrito de pollo con arroz de coliflor",
+      "Cena": "Bistec de res a la parrilla con brócoli al vapor y puré de coliflor"
+    },
+    "Día 3": {
+      "Desayuno": "Huevos revueltos con tomate y aguacate",
+      "Comida": "Paella de camarones con arroz de coliflor",
+      "Cena": "Espaguetis de calabacín con salsa boloñesa de pavo"
+    },
+    "Día 4": {
+      "Desayuno": "Aguacate al horno con huevo",
+      "Comida": "Wraps de lechuga rellenos de ensalada de atún (mayonesa ligera)",
+      "Cena": "Salmón al horno con espárragos"
+    },
+    "Día 5": {
+      "Desayuno": "Yogur griego con almendras y moras",
+      "Comida": "Lasaña de calabacín con carne molida (sin pasta, bajo en carbohidratos)",
+      "Cena": "Salteado de carne de res con brócoli (estilo chino, salsa ligera de soja)"
+    },
+    "Día 6": {
+      "Desayuno": "Tortitas de harina de almendra con arándanos",
+      "Comida": "Quiche de espinacas sin corteza",
+      "Cena": "Hamburguesa de pavo envuelta en lechuga con tomate y mostaza"
+    },
+    "Día 7": {
+      "Desayuno": "Budín de chía con leche de almendra y fresas",
+      "Comida": "Ensalada de aguacate, tomate y queso fresco con aceite de oliva",
+      "Cena": "Berenjenas a la parmesana (sin empanizado, con queso moderado)"
+    },
+    "Día 8": {
+      "Desayuno": "Huevos revueltos con jamón de pavo y espinacas",
+      "Comida": "Chuleta de cerdo a la plancha con coliflor asada",
+      "Cena": "Ensalada de pollo con aguacate y queso azul (porción pequeña de queso)"
+    },
+    "Día 9": {
+      "Desayuno": "Requesón (queso cottage) con nueces y arándanos",
+      "Comida": "Pimientos rellenos de carne molida (sin arroz)",
+      "Cena": "Arroz frito de coliflor con pollo y vegetales"
+    },
+    "Día 10": {
+      "Desayuno": "Shakshuka (huevos pochados en salsa de tomate y pimientos)",
+      "Comida": "Ensalada de salmón a la parrilla con espinacas y aguacate",
+      "Cena": "Fideos de calabacín estilo Alfredo con pollo"
+    },
+    "Día 11": {
+      "Desayuno": "Revuelto de tofu con cúrcuma y vegetales",
+      "Comida": "Calabacines rellenos de atún y verduras gratinados",
+      "Cena": "Curry de pescado con leche de coco y coliflor"
+    },
+    "Día 12": {
+      "Desayuno": "Batido de aguacate, espinacas y proteína en polvo",
+      "Comida": "Ensalada griega (pepino, tomate, feta, aceitunas) con pollo a la parrilla",
+      "Cena": "Salteado de camarones al ajillo con verduras mixtas"
+    },
+    "Día 13": {
+      "Desayuno": "Yogur con linaza molida y moras",
+      "Comida": "Berenjenas rellenas de carne y verduras en salsa de tomate",
+      "Cena": "Sopa cremosa de brócoli con queso cheddar (bajo en carbohidratos)"
+    },
+    "Día 14": {
+      "Desayuno": "Huevos benedictinos sobre aguacate (sin pan)",
+      "Comida": "Bistec de res encebollado con ensalada de espinacas",
+      "Cena": "Pizza con base de coliflor, pepperoni de pavo y mozzarella"
+    },
+    "Día 15": {
+      "Desayuno": "Huevos revueltos con queso cheddar y tocino de pavo",
+      "Comida": "Ensalada de huevo (huevo duro picado con mayonesa ligera) en hojas de lechuga",
+      "Cena": "Fajitas de camarón con pimientos (sin tortilla, servidas con guacamole)"
+    }
+  },
+  "Low-Sodium": {
+    "Día 1": {
+      "Desayuno": "Avena con leche descremada, arándanos y nueces (sin sal añadida)",
+      "Comida": "Tazón de camarones asados con pesto y quinoa (bajo en sodio)",
+      "Cena": "Salmón al horno con salsa de arándanos y remolacha"
+    },
+    "Día 2": {
+      "Desayuno": "Tortilla de claras con espinacas y tomate (sin sal)",
+      "Comida": "Ensalada de pollo a la parrilla con aderezo de limón (sin sal)",
+      "Cena": "Pechuga de pavo al horno con hierbas, vegetales al vapor (sin sal)"
+    },
+    "Día 3": {
+      "Desayuno": "Yogur natural con plátano y avena (sin sal)",
+      "Comida": "Pasta integral con salsa de tomate casera (sin sal) y albahaca",
+      "Cena": "Estofado de carne con verduras (preparado con caldo sin sal)"
+    },
+    "Día 4": {
+      "Desayuno": "Pan integral tostado con aguacate (sin sal) y huevo cocido",
+      "Comida": "Sándwich de atún bajo en sodio en pan integral con lechuga y tomate",
+      "Cena": "Salteado de tofu con brócoli y zanahorias al jengibre (sin sal añadida)"
+    },
+    "Día 5": {
+      "Desayuno": "Claras revueltas con champiñones y pimiento (sin sal)",
+      "Comida": "Ensalada de garbanzos y quinoa con vinagreta de hierbas (garbanzos enjuagados)",
+      "Cena": "Lomo de cerdo asado con puré de manzana (sin sal) y coles de Bruselas"
+    },
+    "Día 6": {
+      "Desayuno": "Smoothie de mango y espinacas con yogur (sin sal)",
+      "Comida": "Sopa de verduras casera (sin sal) con pan integral sin sal untado con hummus sin sal",
+      "Cena": "Pasta primavera con vegetales frescos (sin sal) y queso parmesano ligero"
+    },
+    "Día 7": {
+      "Desayuno": "Panqueques integrales de banano (sin sal en la masa)",
+      "Comida": "Wrap de lechuga con pollo al curry (condimentado con hierbas, sin sal)",
+      "Cena": "Pescado a la parrilla con limón y orégano, con papas hervidas sin sal"
+    },
+    "Día 8": {
+      "Desayuno": "Cereal de arroz inflado con leche de almendras (sin sal) y fresas",
+      "Comida": "Arroz frito casero con vegetales (sin salsa de soya)",
+      "Cena": "Pollo guisado con tomates, calabacín y hierbas (sin sal)"
+    },
+    "Día 9": {
+      "Desayuno": "Fruta fresca (melón, uvas) con yogur bajo en grasa (sin sal)",
+      "Comida": "Estofado de frijoles pintos sin sal con arroz integral",
+      "Cena": "Tacos de pescado a la parrilla en tortillas sin sal con col morada y lima"
+    },
+    "Día 10": {
+      "Desayuno": "Omelette de claras con champiñones (sin sal)",
+      "Comida": "Ensalada griega (pepino, tomate, aceitunas, queso feta bajo sal)",
+      "Cena": "Carne de res magra guisada con zanahorias y guisantes (sin sal)"
+    },
+    "Día 11": {
+      "Desayuno": "Batido de plátano y mantequilla de maní sin sal",
+      "Comida": "Sándwich de pavo bajo en sodio con mostaza sin sal en pan integral",
+      "Cena": "Sopa minestrone casera sin sal (con pasta integral y muchas verduras)"
+    },
+    "Día 12": {
+      "Desayuno": "Tostada integral con mermelada sin sal y fruta",
+      "Comida": "Pollo salteado con brócoli y anacardos sin sal sobre arroz integral",
+      "Cena": "Coliflor al horno con cúrcuma y garbanzos (enjuagados)"
+    },
+    "Día 13": {
+      "Desayuno": "Avena nocturna con manzana y canela (sin sal)",
+      "Comida": "Hamburguesa de lentejas sin sal en pan integral con aguacate",
+      "Cena": "Pasta con salsa pesto casera sin sal y vegetales asados"
+    },
+    "Día 14": {
+      "Desayuno": "Huevos pochados sobre espinacas (sin sal)",
+      "Comida": "Guiso de quinoa con calabaza y hierbas (sin sal)",
+      "Cena": "Estofado de ternera sin sal con papas y ejotes"
+    },
+    "Día 15": {
+      "Desayuno": "Tortilla de maíz con aguacate y pico de gallo sin sal",
+      "Comida": "Ensalada de pasta sin sal con atún bajo en sodio y vegetales",
+      "Cena": "Salmón a la parrilla con espárragos y limón (sin sal)"
+    }
+  },
+  "Low-Glycemic": {
+    "Día 1": {
+      "Desayuno": "Tortilla de 2 huevos al vapor con avena y semillas, fruta de bajo IG (ej. fresas)",
+      "Comida": "Caldo de huesos bajo grasa con albóndigas, y pollo a la plancha con brócoli, coliflor y ejotes al vapor",
+      "Cena": "Yogur natural (pequeña porción, si se desea) a las 21:00, según recomendaciones (cena ligera para mantener nivel glucosa)"
+    },
+    "Día 2": {
+      "Desayuno": "Gachas de avena con aceite de coco (150g) y huevo pasado por agua",
+      "Comida": "Sopa de guisantes (250g), judías verdes al vapor con hierbas (150g), trigo sarraceno (100g) y ensalada de zanahoria y remolacha con nueces",
+      "Cena": "Pescado blanco a la plancha con camote al horno y espárragos (bajo IG)"
+    },
+    "Día 3": {
+      "Desayuno": "Pan de centeno integral con aguacate y queso cottage, y una naranja",
+      "Comida": "Lentejas estofadas con verduras y arroz integral",
+      "Cena": "Ensalada de quinoa, garbanzos y vegetales con aderezo de yogur"
+    },
+    "Día 4": {
+      "Desayuno": "Yogur griego con muesli de avena integral y manzana",
+      "Comida": "Tacos de lechuga con pollo y frijoles negros (sin tortilla)",
+      "Cena": "Filete de pescado al horno con batata asada y ensalada verde"
+    },
+    "Día 5": {
+      "Desayuno": "Panquecas integrales de avena con plátano y nueces",
+      "Comida": "Salteado de tofu con arroz integral y vegetales",
+      "Cena": "Pollo guisado con garbanzos y espinacas"
+    },
+    "Día 6": {
+      "Desayuno": "Smoothie de frutos rojos, espinacas y yogur (sin azúcar añadida)",
+      "Comida": "Pasta integral al dente con pesto y vegetales",
+      "Cena": "Sopa minestrone con frijoles y cebada"
+    },
+    "Día 7": {
+      "Desayuno": "Huevos revueltos con tomate y una tostada integral",
+      "Comida": "Hamburguesa de pavo en pan integral con aguacate y ensalada",
+      "Cena": "Quinoa con curry de verduras y lentejas"
+    },
+    "Día 8": {
+      "Desayuno": "Cereal de salvado con leche baja en grasa y moras",
+      "Comida": "Ensalada Nicoise (atún, huevo, judías verdes, papa cocida, aceitunas) con aderezo ligero",
+      "Cena": "Pisto de verduras (ratatouille) con garbanzos y arroz integral"
+    },
+    "Día 9": {
+      "Desayuno": "Pudín de chía con leche de almendra, cacao y fresas (sin azúcar)",
+      "Comida": "Pollo al horno con calabaza y brócoli al vapor",
+      "Cena": "Ensalada de cebada perlada con tomates cherry, pepino y queso feta"
+    },
+    "Día 10": {
+      "Desayuno": "Batido de avena, manzana y canela (hecho con avena integral y yogur)",
+      "Comida": "Salteado de res y verduras (brócoli, pimientos) servido con arroz integral",
+      "Cena": "Guiso de lentejas rojas con espinacas y zanahoria"
+    },
+    "Día 11": {
+      "Desayuno": "Tostada integral con mantequilla de maní natural y rodajas de banana",
+      "Comida": "Wrap integral de pavo, lechuga y hummus, con bastones de zanahoria",
+      "Cena": "Bowl de farro (trigo) con garbanzos, tomate, pepino, aceitunas y queso de cabra"
+    },
+    "Día 12": {
+      "Desayuno": "Arepa de maíz con queso fresco y tomate",
+      "Comida": "Estofado de garbanzos con berenjena y calabacín",
+      "Cena": "Pasta integral con salsa de tomate, espinacas y lentejas"
+    },
+    "Día 13": {
+      "Desayuno": "Parfait de yogur griego, avena y arándanos (sin azúcar añadido)",
+      "Comida": "Chili vegetariano con frijoles negros y quinoa (bajo IG)",
+      "Cena": "Salmón a la plancha con ensalada de quinoa y verduras"
+    },
+    "Día 14": {
+      "Desayuno": "Crepe integral con ricotta y fresas",
+      "Comida": "Sopa de cebada y vegetales, con pan integral",
+      "Cena": "Pollo al curry suave con arroz basmati integral y brócoli"
+    },
+    "Día 15": {
+      "Desayuno": "Porridge de avena cortada (steel-cut) con leche y almendras picadas",
+      "Comida": "Ensalada de lentejas, tomate, pepino y perejil (tipo ensalada mediterránea)",
+      "Cena": "Tilapia al horno con limón, acompañada de camote asado y espárragos"
+    }
+  },
+  "Low-Protein": {
+    "Día 1": {
+      "Desayuno": "Avena con leche de almendras y canela, con fresas (bajo en proteínas)",
+      "Comida": "Sándwich de tomate y albahaca en pan integral (sin carnes)",
+      "Cena": "Arroz frito con vegetales (receta renal baja en proteína)"
+    },
+    "Día 2": {
+      "Desayuno": "Pan tostado con mermelada y jugo de naranja",
+      "Comida": "Ensalada de pasta integral con vegetales (sin agregar carnes, garbanzos moderados)",
+      "Cena": "Crema de calabacín con picatostes y mazorca de maíz"
+    },
+    "Día 3": {
+      "Desayuno": "Batido de mango, piña y leche de coco",
+      "Comida": "Arroz al limón con pasas y almendras, con ensalada de espinacas y fresas",
+      "Cena": "Berenjenas rellenas de vegetales (sin carne, poco queso)"
+    },
+    "Día 4": {
+      "Desayuno": "Cereal de maíz con bebida de arroz y banana",
+      "Comida": "Guiso de patatas, zanahorias y guisantes (sin carne)",
+      "Cena": "Espaguetis al pomodoro (pasta con salsa de tomate y albahaca, sin queso)"
+    },
+    "Día 5": {
+      "Desayuno": "Arepa de maíz con un toque de queso crema",
+      "Comida": "Tacos vegetarianos de portobello en tortilla de maíz con pimientos y cebolla",
+      "Cena": "Salteado de vegetales con fideos de arroz (sin huevo ni carne)"
+    },
+    "Día 6": {
+      "Desayuno": "Waffles caseros con puré de manzana en lugar de huevo, espolvoreados con canela",
+      "Comida": "Sopa de fideos con verduras (caldo sin carnes) y pan",
+      "Cena": "Risotto de hongos (con caldo de verduras, queso parmesano moderado)"
+    },
+    "Día 7": {
+      "Desayuno": "Tostadas francesas (1 huevo para 2 porciones) con sirope de frutas",
+      "Comida": "Buddha bowl de arroz integral, calabaza asada, brócoli y aguacate con aderezo de tahini",
+      "Cena": "Calabacines rellenos de arroz y verduras gratinados con queso bajo en proteína"
+    },
+    "Día 8": {
+      "Desayuno": "Macedonia de frutas con yogur de coco (sin proteína animal)",
+      "Comida": "Pisto manchego (guiso de verduras) con patata y pan integral",
+      "Cena": "Polenta con salsa de tomate y champiñones"
+    },
+    "Día 9": {
+      "Desayuno": "Crema de arroz (arroz con leche de coco) con canela",
+      "Comida": "Sopa de fideos oriental con tofu blando y verduras (muy poco tofu)",
+      "Cena": "Papas al horno rellenas de brócoli y crema agria"
+    },
+    "Día 10": {
+      "Desayuno": "Smoothie de durazno y leche de almendras",
+      "Comida": "Macarrones con salsa de tomate y albahaca (sin carne, queso opcional mínimo)",
+      "Cena": "Tabulé (ensalada de couscous con perejil, tomate, pepino) y falafel al horno (porciones pequeñas)"
+    },
+    "Día 11": {
+      "Desayuno": "Bowl de acai con banana y granola (sin lácteos)",
+      "Comida": "Pizza margarita casera con poco queso (masa delgada, mucha salsa de tomate)",
+      "Cena": "Cazuela de verduras al horno (calabacín, berenjena, tomate) con migas de pan"
+    },
+    "Día 12": {
+      "Desayuno": "Pan integral con aceite de oliva y tomate rallado",
+      "Comida": "Ensalada de arroz con guisantes, maíz, pimiento (vegetariana, bajo contenido proteico)",
+      "Cena": "Pasta al pesto con espárragos (sin pollo ni añadido proteico)"
+    },
+    "Día 13": {
+      "Desayuno": "Fruta fresca (sandía, melón) con menta",
+      "Comida": "Empanadas de humita (rellenas de choclo) al horno (porción moderada)",
+      "Cena": "Crema de champiñones (sin crema, solo triturando champiñones y papas) con tostadas"
+    },
+    "Día 14": {
+      "Desayuno": "Avena nocturna con leche de arroz, pasas y vainilla",
+      "Comida": "Quiche de verduras sin corteza (más vegetales, menos huevo y queso)",
+      "Cena": "Brochetas de verduras a la parrilla con arroz pilaf"
+    },
+    "Día 15": {
+      "Desayuno": "Pancakes de plátano (sin huevo, con harina de avena) y sirope ligero",
+      "Comida": "Sopa de tomate y fideos (hecha con caldo vegetal)",
+      "Cena": "Ensalada de pasta con vegetales asados y vinagreta (sin carnes, queso opcional)"
+    }
+  },
+  "DASH": {
+    "Día 1": {
+      "Desayuno": "Avena sin sal con pasas, banana y leche descremada",
+      "Comida": "Plato de hummus con pepino, pimiento rojo, zanahorias baby, falafel al horno y pan pita integral",
+      "Cena": "Salmón asado con glaseado balsámico, mezcla de arroz integral y salvaje, ejotes salteados con pimiento rojo y peras en su jugo"
+    },
+    "Día 2": {
+      "Desayuno": "Ensalada de frutas (melón, uvas), medio bagel integral con mantequilla de maní, y leche descremada",
+      "Comida": "Ensalada de espinacas con pera, mandarinas, vinagreta ligera, queso de cabra y pollo a la plancha; panecillo integral",
+      "Cena": "Pasta integral con salsa marinara, calabacín, espinacas; melón y leche descremada"
+    },
+    "Día 3": {
+      "Desayuno": "Tostada integral con aguacate y tomate seco, con huevo escalfado; naranja",
+      "Comida": "Ensalada de atún (bajo sodio) con apio, pimiento y mayonesa ligera sobre tostadas integrales; manzana y 1/2 taza de leche",
+      "Cena": "Salteado de verduras (brócoli, zanahoria, champiñones, pimiento) con anacardos y salsa ligera de soya, servido con arroz integral; yogur bajo en grasa"
+    },
+    "Día 4": {
+      "Desayuno": "Cereal de salvado con banana, leche baja en grasa, pan integral con margarina sin sal y jugo de naranja",
+      "Comida": "Sándwich de ensalada de pollo (pollo desmenuzado, yogur, mostaza regular sin sal) en pan integral; ensalada de pepino, tomate, semillas de girasol con aliño bajo sodio; cóctel de frutas sin azúcar",
+      "Cena": "Roast beef magro (85 g) con gravy bajo en grasa, ejotes salteados, papa al horno con crema agria sin grasa y cheddar reducido en grasa, pan integral con margarina sin sal, manzana y leche descremada"
+    },
+    "Día 5": {
+      "Desayuno": "Pancakes de banano y avena (integral, sin sal)",
+      "Comida": "Bowl de lentejas al ajo y tomate",
+      "Cena": "Pollo Marsala con champiñones (versión baja en sal)"
+    },
+    "Día 6": {
+      "Desayuno": "Parfait de yogur bajo en grasa con fresas y granola integral",
+      "Comida": "Wrap integral de pavo magro con lechuga, tomate y mostaza, acompañado de bastones de apio y zanahoria",
+      "Cena": "Tacos de pescado a la parrilla con tortilla de maíz, repollo y pico de gallo (sin sal añadida)"
+    },
+    "Día 7": {
+      "Desayuno": "Tostadas francesas de pan integral con claras de huevo y canela, cubiertas con frutos del bosque",
+      "Comida": "Ensalada tibia de quinua con garbanzos, espinacas, pimiento asado y aderezo de limón",
+      "Cena": "Salteado de camarones y tofu con verduras mixtas sobre arroz integral"
+    },
+    "Día 8": {
+      "Desayuno": "Huevos revueltos con espinacas y tomate, y una tortilla integral",
+      "Comida": "Sopa de verduras y cebada con pan integral",
+      "Cena": "Pasta integral con pollo, brócoli y salsa Alfredo ligera (hecha con leche baja en grasa)"
+    },
+    "Día 9": {
+      "Desayuno": "Smoothie de espinacas, piña y yogur griego (sin azúcar añadido)",
+      "Comida": "Ensalada Nicoise (atún en agua, ejotes, papa, huevo, aceitunas) con aderezo de vinagreta ligera",
+      "Cena": "Estofado de ternera magra con zanahorias, papas y guisantes (sin sal añadida)"
+    },
+    "Día 10": {
+      "Desayuno": "Avena cortada con manzana picada, nueces y un toque de miel",
+      "Comida": "Pizza integral de vegetales (pimientos, champiñones, espinaca) con queso parcialmente descremado",
+      "Cena": "Chili de pavo molido (carne magra) con frijoles negros y ensalada verde"
+    },
+    "Día 11": {
+      "Desayuno": "Yogur griego con durazno en trozos y almendras laminadas",
+      "Comida": "Sándwich de hummus, pepino y zanahoria rallada en pan integral, con sopa de tomate baja en sodio",
+      "Cena": "Salmón a la parrilla con salsa de mango, arroz integral y espárragos al vapor"
+    },
+    "Día 12": {
+      "Desayuno": "Tortilla de vegetales (espinaca, champiñón) con queso reducido en grasa",
+      "Comida": "Burrito bowl de frijoles negros, arroz integral, pollo a la plancha, tomate, lechuga y maíz (sin crema, queso moderado)",
+      "Cena": "Pollo al horno con hierbas, puré de coliflor y brócoli al vapor"
+    },
+    "Día 13": {
+      "Desayuno": "Muffin inglés integral con mantequilla de almendra y rodajas de manzana",
+      "Comida": "Ensalada de pasta integral con atún, apio, cebolla morada y yogur (estilo ensalada de atún saludable)",
+      "Cena": "Tilapia al horno con limón y eneldo, quinoa y calabacín salteado"
+    },
+    "Día 14": {
+      "Desayuno": "Pan tostado integral con mantequilla de maní y plátano en rodajas",
+      "Comida": "Sopa minestrone (pasta integral, alubias, verduras, caldo bajo sodio)",
+      "Cena": "Fajitas de pollo (pechuga) con muchas verduras en tortillas integrales (guacamole en lugar de crema)"
+    },
+    "Día 15": {
+      "Desayuno": "Waffles integrales con yogur y moras (jarabe ligero)",
+      "Comida": "Wrap de pollo al estilo mediterráneo (pollo, tomate, pepino, hummus en tortilla integral)",
+      "Cena": "Guiso de garbanzos con berenjena, tomate y calabacín, con arroz integral"
+    }
+  },
+  "Mediterranean": {
+    "Día 1": {
+      "Desayuno": "Huevos estrellados con pan integral, aguacate y tomates asados",
+      "Comida": "Ensalada verde con jitomates cherry, aceitunas y aderezo de aceite de oliva; pan pita integral con lentejas guisadas",
+      "Cena": "Pizza casera integral con salsa de tomate, vegetales a la parrilla, queso bajo en grasa (opcional: pollo, atún, jamón bajo sodio o semillas)"
+    },
+    "Día 2": {
+      "Desayuno": "Yogur griego con kiwi y nueces o almendras",
+      "Comida": "Sándwich de pan integral con vegetales asados (berenjena, pimiento, cebolla) con hummus o aguacate",
+      "Cena": "Salmón a la parrilla con especias y ajo, acompañado de papa al horno con aceite de oliva y hierbas"
+    },
+    "Día 3": {
+      "Desayuno": "Avena integral con canela, frutos rojos, pistaches y miel",
+      "Comida": "Guiso de lentejas con especias y ensalada de arúgula con pepino, jitomate cherry y queso feta",
+      "Cena": "Pasta integral con salsa de tomate, verduras salteadas y queso parmesano"
+    },
+    "Día 4": {
+      "Desayuno": "Omelette de huevo con pimiento, cebolla y jitomate, con queso fresco o aguacate",
+      "Comida": "Anchoas guisadas en aceite de oliva con pan multigrano; ensalada de kale con jitomate",
+      "Cena": "Espinacas (crudas o salteadas) con alcachofas guisadas en aceite de oliva, ajo y especias"
+    },
+    "Día 5": {
+      "Desayuno": "Manzana verde con yogurt natural, canela y miel + semillas de girasol, calabaza o chía",
+      "Comida": "Quinoa al vapor con pimiento morrón, jitomates deshidratados y aceitunas; garbanzos tostados con especias y queso de cabra (o aguacate)",
+      "Cena": "Ensalada de kale con jitomate, pepino, aceitunas, limón y parmesano; acompañar con sardinas o pescado al horno"
+    },
+    "Día 6": {
+      "Desayuno": "Pan tostado con queso de cabra o ricotta y fruta picada (arándanos o higos)",
+      "Comida": "Verduras en salsa de tomate y pollo asado con limón y aceite de oliva",
+      "Cena": "Salteado de vegetales mixtos en aceite de oliva y hierbas, con cuscús integral"
+    },
+    "Día 7": {
+      "Desayuno": "Avena integral cocida en agua con fresas y miel de maple (o crema de cacahuate), con canela",
+      "Comida": "Calabacitas guisadas con papa en salsa de tomate y hierbas (o camote al horno)",
+      "Cena": "Ensalada de brócoli con pescado blanco guisado en aceite de oliva"
+    },
+    "Día 8": {
+      "Desayuno": "Tostada de pan integral con tomate rallado y aceite de oliva, y queso manchego",
+      "Comida": "Gazpacho andaluz (sopa fría de tomate, pepino, pimiento) con picatostes, y tortilla española (porción pequeña)",
+      "Cena": "Pescado a la sal (horneado) con ensalada mediterránea (tomate, pepino, cebolla, aceitunas)"
+    },
+    "Día 9": {
+      "Desayuno": "Frittata de espinacas y feta, con pan de centeno",
+      "Comida": "Souvlaki de pollo (brochetas marinadas en hierbas) con ensalada griega (pepino, tomate, aceitunas, feta)",
+      "Cena": "Risotto integral con espárragos y setas (usando caldo de verduras)"
+    },
+    "Día 10": {
+      "Desayuno": "Crepes integrales con miel y nueces",
+      "Comida": "Ensalada de pasta (fusilli integral) con atún, maíz, tomate cherry y alcaparras",
+      "Cena": "Cazuela de garbanzos con espinacas y bacalao"
+    },
+    "Día 11": {
+      "Desayuno": "Labneh (yogur colado) con pepino, menta y aceite de oliva, con pan pita",
+      "Comida": "Moussaka ligera (berenjena al horno con tomate y un poco de carne magra y bechamel ligera)",
+      "Cena": "Brochetas de verduras y queso halloumi a la parrilla, con ensalada tabule"
+    },
+    "Día 12": {
+      "Desayuno": "Smoothie de yogur, plátano y dátiles",
+      "Comida": "Shakshuka (huevos en salsa de tomate) con pan integral",
+      "Cena": "Lentejas guisadas con verduras y arroz integral (lentejas a la provenzal)"
+    },
+    "Día 13": {
+      "Desayuno": "Ricotta batida con miel y almendras, con rodajas de durazno",
+      "Comida": "Ensalada Caprese (tomate, mozzarella, albahaca) con pesto y pan focaccia",
+      "Cena": "Calamares a la plancha con limón, sobre cama de espinacas salteadas"
+    },
+    "Día 14": {
+      "Desayuno": "Café latte con leche descremada, pan integral con tahini y mermelada",
+      "Comida": "Pizza integral con verduras grilladas (berenjena, calabacín, pimiento) y mozzarella",
+      "Cena": "Pollo al romero con patatas bravas (al horno, poco picantes) y pimientos asados"
+    },
+    "Día 15": {
+      "Desayuno": "Muesli casero (avena integral, nueces, pasas) con yogur natural y manzana",
+      "Comida": "Pasta al pesto genovés con judías verdes y papas (receta ligur tradicional)",
+      "Cena": "Garbanzos con espinacas y tomate, y boquerones en vinagre de entrada"
+    }
+  }
+}
