@@ -30,6 +30,8 @@ flutter create --org com.yourdomain your_app_name
 
 Luego, reemplaza los archivos y carpetas con los que se tienen en este repositorio: `lib`, `ios`, `macos`, `android`, `test`, `web` y los archivos `pubspec.yaml` y `pubspec.lock` y `analysis_options.yaml`.
 
+En el caso de este proyecto el codigo del Frontend (Cliente) es el main.dart que se encuentra en la carpeta lib, el codigo del backend servidor de flask es el flask_api_dieta.py tambien ubicado en la carpeta lib
+
 ---
 
 ## Para correr la APP
