@@ -28,7 +28,7 @@ flutter create --org com.yourdomain your_app_name
 ```
 
 
-Luego, reemplaza los archivos y carpetas con los que se tienen en este repositorio: `lib`, `ios`, `macos`, `android`, y los archivos `pubspec.yaml` y `pubspec.lock`.
+Luego, reemplaza los archivos y carpetas con los que se tienen en este repositorio: `lib`, `ios`, `macos`, `android`, `test`, `web` y los archivos `pubspec.yaml` y `pubspec.lock` y `analysis_options.yaml`.
 
 ---
 
@@ -67,7 +67,7 @@ openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -node
 cp cert.pem flask_cert.crt
 ```
 
-- En la carpeta donde creaste `flask_cert.crt`, ejecuta:
+- En el directorio donde se encuentra tu `flask_cert.crt`, ejecuta:
 
 ```bash
 python3 -m http.server 8000
