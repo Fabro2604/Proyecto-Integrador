@@ -44,7 +44,7 @@ En el caso de este proyecto el codigo del Frontend (Cliente) es el main.dart que
 pip install flask joblib scikit-learn pandas numpy tensorflow
 ```
 
-- Corre el servidor con:
+- Corre el servidor con antes de correr el servidor asegurarse de tener instalados los certificados para la comunicación https:
 
 ```bash
 python flask_api_dieta.py
@@ -52,15 +52,24 @@ python flask_api_dieta.py
 
 - Abre el simulador en Xcode y conéctalo a tu IDE de Android Studio.
 - Conecta el archivo `main.dart` al servidor ejecutando la API de Flask, modificando esta línea:
+- Para obtener tu direccion IP correr este comando en terminal
+  
+```bash
+ipconfig getifaddr en0
+```
 
 ```dart
 var url = Uri.parse("https://TU_IP_LOCAL:5000/api/recomendar");
 ```
 
+### Generar certificados autofirmadoas para comunicación https
+
 - En la carpeta `lib`, ejecuta este comando para generar un certificado autofirmado:
 
 ```bash
-openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -nodes -subj "/CN=TU_IP_LOCAL" -addext "subjectAltName=IP:TU_IP_LOCAL"
+openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -nodes \
+-subj "/CN=TU_IP_LOCAL" \
+-addext "subjectAltName=IP:TU_IP_LOCAL"
 ```
 
 - Copia el archivo `cert.pem` a un archivo `.crt` con:
